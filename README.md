@@ -1,2 +1,2 @@
 # hello-world
-My first GitHub repository.
+The first branch of the master branch of the hello-world repository.
